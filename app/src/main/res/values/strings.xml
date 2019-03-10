@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DioTrial</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blood_sugar_fragment">Blood Sugar Fragment</string>
+    <string name="meals_fragment">Meals Fragment</string>
+    <string name="chat_fragment">Chat Fragment</string>
+    <string name="information_fragment">Information Fragment</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sugar_levels">Sugar Levels</string>
+    <string name="meals">Meals</string>
+    <string name="chats">Chat</string>
+    <string name="information">Information</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+    <!-- Text to display in the list when there are no earthquakes [CHAR LIMIT=NONE] -->
+    <string name="no_earthquakes">No earthquakes found.</string>
+    <string name="news_author">Editorial</string>
+    <string name="author_title">Author:</string>
+
+    <string name="news_title">Debate continues over Labour’s code on antisemitism | Letters</string>
+    <string name="news_section">News</string>
+    <string name="news_body">In fact the party’s document endorses and also seeks to elaborate the widely disseminated International Holocaust Remembrance Alliance’s “working definition” of antisemitism. Thus, for example, the IHRA document includes the statement that “criticism of Israel similar to that levelled against any other country cannot be regarded as antisemitic”.</string>
+    <string name="news_date">2018-07-18</string>
+</resources>

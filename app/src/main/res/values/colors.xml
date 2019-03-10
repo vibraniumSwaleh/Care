@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2979FF</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="tab_indicator_color">#FFFFFF</color>
+    <color name="tab_selected_text_color">#FFFFFF</color>
+    <color name="tab_background">#2979FF</color>
+
+    <!-- Text color for the details of the earthquake in the list item -->
+    <color name="dateTextColor">#B4BAC0</color>
+    <color name="ViewColor">#000000</color>
+</resources>
