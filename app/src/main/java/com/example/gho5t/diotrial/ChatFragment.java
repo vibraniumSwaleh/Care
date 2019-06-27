@@ -1,10 +1,6 @@
 package com.example.gho5t.diotrial;
 
-import android.content.Context;
-import android.content.Intent;
-import android.content.pm.PackageManager;
 import android.os.Bundle;
-import android.provider.MediaStore;
 import android.support.v4.app.Fragment;
 import android.text.TextUtils;
 import android.view.LayoutInflater;
@@ -12,9 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.ImageButton;
 import android.widget.ListView;
-import android.widget.Toast;
 
 import java.text.DateFormat;
 import java.util.ArrayList;
@@ -49,7 +43,7 @@ public class ChatFragment extends Fragment {
 
     private void initControls(){
 
-        chatEditText = (EditText) chatView.findViewById(R.id.editText);
+        chatEditText = (EditText) chatView.findViewById(R.id.signin_password);
         chatList = (ListView) chatView.findViewById(R.id.list_view);
         sendButton = (Button) chatView.findViewById(R.id.send_button);
 

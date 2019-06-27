@@ -68,7 +68,7 @@
             app:layout_constraintTop_toBottomOf="@+id/guideline4" />
 
         <EditText
-            android:id="@+id/editText3"
+            android:id="@+id/signin_email"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
@@ -78,13 +78,13 @@
             android:ems="10"
             android:hint="Middle name (optional)"
             android:inputType="textPersonName"
-            app:layout_constraintBottom_toTopOf="@+id/editText"
+            app:layout_constraintBottom_toTopOf="@+id/signin_password"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/editText2" />
 
         <EditText
-            android:id="@+id/editText"
+            android:id="@+id/signin_password"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
@@ -97,7 +97,7 @@
             app:layout_constraintBottom_toTopOf="@+id/editText6"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/editText3" />
+            app:layout_constraintTop_toBottomOf="@+id/signin_email" />
 
         <Button
             android:id="@+id/button"
@@ -128,7 +128,7 @@
             app:layout_constraintBottom_toTopOf="@+id/editText10"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/editText" />
+            app:layout_constraintTop_toBottomOf="@+id/signin_password" />
 
 
         <EditText
@@ -188,7 +188,7 @@
             android:ems="10"
             android:hint="First name"
             android:inputType="textPersonName"
-            app:layout_constraintBottom_toTopOf="@+id/editText3"
+            app:layout_constraintBottom_toTopOf="@+id/signin_email"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/guideline0" />

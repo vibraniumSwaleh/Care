@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "70487124751",
+    "firebase_url": "https://dioapp-55556.firebaseio.com",
+    "project_id": "dioapp-55556",
+    "storage_bucket": "dioapp-55556.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70487124751:android:f76e015e3b7e7d03",
+        "android_client_info": {
+          "package_name": "com.example.gho5t.diotrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70487124751-l2ahbbd6p86k6dgmgndkju0h6gs01dtn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gho5t.diotrial",
+            "certificate_hash": "a816ed507aa7f77ea2b2986fcce6ffc51b8864be"
+          }
+        },
+        {
+          "client_id": "70487124751-794276s4h7km48mnn36s371bc1rn9j6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4mePif5vAmXx88Gq1ajpm4uCN9iwLN4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70487124751-794276s4h7km48mnn36s371bc1rn9j6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
